@@ -19,8 +19,6 @@ I've led company-wide DevOps initiatives, partnered closely with development tea
 ### CI/CD & DevOps
 <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
-<img src="https://img.shields.io/badge/-Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/-Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" />
 <img src="https://img.shields.io/badge/-ArgoCD-3CB371?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 <img src="https://img.shields.io/badge/-Argo_Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo Workflows" />
 
