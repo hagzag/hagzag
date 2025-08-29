@@ -4,7 +4,7 @@
 
 <div align="center">
     
-  [![DevOps Engineer | Cloud | Tech Blogger | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Tech_Writer_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)]([https://github.com/hagzag](https://portfolio.hagzag.com/))
+[![DevOps Engineer | Cloud | Tech Blogger | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Tech_Writer_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://portfolio.hagzag.com/)
 
 </div>
 <div align="center">
